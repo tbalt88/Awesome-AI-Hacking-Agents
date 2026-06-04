@@ -307,6 +307,25 @@ https://github.com/snyk/agent-scan
 
 https://github.com/arm/metis
 
+https://github.com/Pantheon-Security/medusa
+
+https://github.com/Adem035/Inferno
+
+https://github.com/knostic/OpenAnt
+
+https://github.com/provos/ironcurtain
+
+https://github.com/gadievron/raptor
+
+https://github.com/weareaisle/nano-analyzer
+
+https://github.com/berabuddies/agentflow
+
+https://github.com/Armur-Ai/Pentest-Swarm-AI
+
+https://github.com/Lazarus-AI/clearwing
+
+
 
 # Other (WIP)
 
