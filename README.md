@@ -223,5 +223,9 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 
 # Other (WIP)
 
+https://github.com/qriousec/colony_agent
+https://github.com/adshao/flounder
+https://github.com/vulhunt-re/vulhunt
+
 ToolSafe https://github.com/MurrayTom/ToolSafe
 AgentFence
